@@ -33,6 +33,13 @@ yarn-error.log*
 # vercel
 .vercel
 
+functions/index.ts
 .functions
 .firebase
 *.log
+.firebaserc
+firebase.json
+firestore.indexes.json
+firestore.rules
+remoteconfig.template.json
+storage.rules
